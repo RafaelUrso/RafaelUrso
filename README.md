@@ -48,6 +48,7 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 
 ### Complementar
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -57,7 +58,7 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux]([https://img.shields.io/badge/Linux%20(Fedora)-51A2DA?style=for-the-badge&logo=fedora&logoColor=white](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black))
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Deepseek API](https://img.shields.io/badge/DeepSeek-5786FE.svg?style=for-the-badge&logo=DeepSeek&logoColor=white)
 
