@@ -77,14 +77,6 @@ Sistema web completo de gestão de reservas (Next.js, Prisma, Auth.js, PostgreSQ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelUrso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelUrso&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐ Se curtir algum projeto, deixa uma estrela
 🤝 Aberto a oportunidades de estágio em dados e trocas sobre engenharia de dados
