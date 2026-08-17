@@ -57,9 +57,9 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux%20(Fedora)-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux]([https://img.shields.io/badge/Linux%20(Fedora)-51A2DA?style=for-the-badge&logo=fedora&logoColor=white](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black))
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Deepseek API](https://img.shields.io/badge/DeepSeek-5786FE.svg?style=for-the-badge&logo=DeepSeek&logoColor=white)
 
 ---
 
