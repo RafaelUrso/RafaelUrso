@@ -63,12 +63,6 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ![Deepseek API](https://img.shields.io/badge/DeepSeek-5786FE.svg?style=for-the-badge&logo=DeepSeek&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-six-hazel-90.vercel.app/api?username=RafaelUrso&show_icons=true&theme=dark" height="180">
-  <img src="https://github-readme-stats-six-hazel-90.vercel.app/api/top-langs/?username=RafaelUrso&layout=compact&theme=dark" height="180">
-</p>
 
 ## 📌 Featured Projects
 
