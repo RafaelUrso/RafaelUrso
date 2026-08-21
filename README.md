@@ -66,8 +66,8 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api?username=RafaelUrso&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api/top-langs/?username=RafaelUrso&layout=compact&theme=dark" height="180"/>
+  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api?username=RafaelUrso&show_icons=true&theme=dark" height="180">
+  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api/top-langs/?username=RafaelUrso&layout=compact&theme=dark" height="180">
 </p>
 ---
 
