@@ -65,7 +65,7 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelUrso">
+<img src="https://avatars.githubusercontent.com/u/9919?v=4" width="100">
 ---
 
 ## 📌 Featured Projects
