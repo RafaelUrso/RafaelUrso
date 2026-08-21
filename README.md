@@ -62,6 +62,13 @@ Currently studying Análise e Desenvolvimento de Sistemas at FAETERJ-Rio, chasin
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Deepseek API](https://img.shields.io/badge/DeepSeek-5786FE.svg?style=for-the-badge&logo=DeepSeek&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api?username=RafaelUrso&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats-kiokim9q5-rafael-54d7.vercel.app/api/top-langs/?username=RafaelUrso&layout=compact&theme=dark" height="180"/>
+</p>
 ---
 
 ## 📌 Featured Projects
